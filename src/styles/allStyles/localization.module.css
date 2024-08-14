@@ -4,7 +4,12 @@
     align-items: center;
     justify-content: space-between;
     margin-top: 10rem;
-    
+    background-color: var(--backgroud-card);
+
+}
+
+.texts {
+    margin-top: 5rem;
 }
 
 .texts > h1{
@@ -22,9 +27,3 @@
     letter-spacing: 1px;
 }
 
-.brand{
-    width: 35rem;
-    display: flex;
-    flex-wrap: wrap;
-    gap: 5rem;
-}

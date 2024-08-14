@@ -4,6 +4,7 @@ import { Budget } from "@/components/budget/Budget";
 import { Header } from "@/components/header/Header";
 import { Navbar } from "@/components/navbar/Navbar";
 import { Services } from "@/components/servic/genericCard/Service";
+import { Localization } from "@/components/where/Localization";
 
 
 export default function Home() {
@@ -20,6 +21,8 @@ export default function Home() {
       <Budget />
 
       <About />
+
+      <Localization />
     </div>
   );
 }

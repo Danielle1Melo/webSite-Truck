@@ -9,31 +9,31 @@ const itensCard = [
     title: "Troca e alinhamento de pneus",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.",
-    image: LOGO.sevices,
+    image: LOGO.car,
   },
   {
     title: "Serviço de lavagem de caminhões e veículos.",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.",
-    image: LOGO.sevices,
+    image: LOGO.car,
   },
   {
     title: "Troca e alinhamento de pneus",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.",
-    image: LOGO.sevices,
+    image: LOGO.car,
   },
   {
     title: "Troca e alinhamento de pneus",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.",
-    image: LOGO.sevices,
+    image: LOGO.car,
   },
   {
     title: "Troca e alinhamento de pneus",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc odio in et, lectus sit lorem id integer.",
-    image: LOGO.sevices,
+    image: LOGO.car,
   },
 ];
 
