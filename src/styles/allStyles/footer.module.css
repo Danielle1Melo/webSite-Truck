@@ -3,14 +3,21 @@
     color: var(--white);
     padding: 0px 150px 0px 150px;
     display: flex;
+    justify-content: center;
     flex-direction: column;
+    /* min-height: 32rem; */
 
-    min-height: 30rem;
 }
 
+.logo{
+    margin-top: 5rem;
+}
+
+
 .session{
-     display: flex;
+    display: flex;
     justify-content: space-between;
+
 }
 
 .contacts{
@@ -20,9 +27,31 @@
     margin-top: 5rem;
 }
 
+.contacts > p, .contactsLogo>p{
+    font-size: 1.2rem;
+}
+
 .socialMedia{
     display: flex;
     flex-direction: column;
     gap: 1rem;
     margin-top: 5rem;
+}
+
+.contactsLogo{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.copyRight{
+    margin-top: 5rem;
+    border-top: solid 2px var(--gray-500);
+}
+
+.copyRight > p{
+    font-size: 1rem;
+    color: var(--copyRight);
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }

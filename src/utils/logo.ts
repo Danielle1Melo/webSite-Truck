@@ -8,6 +8,7 @@ import Renault from "../assets/icons/renault.svg";
 import Man from "../assets/icons/man.svg";
 import Photo from "../assets/icons/fotos.svg"
 import Footer from "../assets/icons/footer.svg"
+import LogoLight from "../assets/icons/logoLight.svg"
 
 export const LOGO = { 
     mainLogo: MainLogo,
@@ -20,4 +21,5 @@ export const LOGO = {
     renault: Renault,
     photo: Photo,
     footer: Footer,
+    logoLight: LogoLight,
 }
