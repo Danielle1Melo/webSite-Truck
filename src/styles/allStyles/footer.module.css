@@ -1,0 +1,28 @@
+.container{
+    background-color: var(--gray-700);
+    color: var(--white);
+    padding: 0px 150px 0px 150px;
+    display: flex;
+    flex-direction: column;
+
+    min-height: 30rem;
+}
+
+.session{
+     display: flex;
+    justify-content: space-between;
+}
+
+.contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 5rem;
+}
+
+.socialMedia{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 5rem;
+}

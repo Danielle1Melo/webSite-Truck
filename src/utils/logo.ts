@@ -6,6 +6,8 @@ import Volvo from "../assets/icons/volvo.svg";
 import Scania from "../assets/icons/scania.svg";
 import Renault from "../assets/icons/renault.svg";
 import Man from "../assets/icons/man.svg";
+import Photo from "../assets/icons/fotos.svg"
+import Footer from "../assets/icons/footer.svg"
 
 export const LOGO = { 
     mainLogo: MainLogo,
@@ -16,4 +18,6 @@ export const LOGO = {
     scania: Scania,
     man: Man,
     renault: Renault,
+    photo: Photo,
+    footer: Footer,
 }
