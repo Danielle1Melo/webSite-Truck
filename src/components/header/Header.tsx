@@ -26,9 +26,13 @@ export function Header() {
       <div className={styled.sessionContainer}>
         <div className={styled.session}>
           <Phone size={25} color="#3333339c" weight="fill" />
+          <div>
           <p>+55 (69) 98455-3652</p>
+          <p>+55 (69) 98455-3652</p>
+          </div>
+          
         </div>
-        <p>+55 (69) 98455-3652</p>
+        
       </div>
     </div>
   );

@@ -8,7 +8,7 @@ export function Photos(){
         <div className={styled.container}>
             <h1>Fotos</h1>
 
-            <Image alt="" src={LOGO.photo} width={1500} className={styled.fotos}/>
+            <Image alt="" src={LOGO.photo} className={styled.fotos}/>
         </div>
     )
 

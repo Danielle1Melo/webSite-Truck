@@ -27,7 +27,7 @@ export function GenericCard({ title, descripion, image }: GenericCardProps) {
         <h2>{title}</h2>
         <p>{descripion}</p>
       </div>
-      <Image src={image} alt=""/>
+      <Image src={image} alt="" className={styled.image}/>
        <link rel="stylesheet" href="bower_components/aos/dist/aos.css" />
        
     </div>

@@ -38,7 +38,7 @@ export function Localization() {
         </p>
       </div>
         
-        <div className={styled.map} ref={mapRef} style={{ height: '500px', width: '50%' }}></div>
+        <div className={styled.map} ref={mapRef} ></div>
      
     </div>
   );

@@ -55,3 +55,30 @@
     margin-top: 2rem;
     margin-bottom: 2rem;
 }
+
+@media (max-width: 1025px) {
+    .container {
+      width: 100%;
+      padding: 0.938rem;
+    }
+  
+    .session{
+        flex-direction: column;
+      
+    }
+
+    .copyRight{
+        text-align: center;
+    }
+
+    .contacts > p, .contactsLogo>p{
+       
+        font-size: 1rem;
+    }
+
+    .session{
+        align-items: center;
+    }
+
+
+  }

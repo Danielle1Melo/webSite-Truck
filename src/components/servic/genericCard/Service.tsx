@@ -47,8 +47,7 @@ export function Services() {
            {itensCard.map((item, idx) => {
             return (
                 
-                     <GenericCard title={item.title} descripion={item.description} image={item.image} key={idx}/>
-              
+                     <GenericCard title={item.title} descripion={item.description} image={item.image} key={idx}/>           
             )
            })}
         </div>

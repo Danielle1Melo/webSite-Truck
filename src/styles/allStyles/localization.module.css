@@ -31,3 +31,38 @@
     letter-spacing: 1px;
 }
 
+.map{
+    height: 500px;
+    width: 50%;
+}
+
+@media (max-width: 1025px) {
+    .container {
+        width: 100%;
+        padding: 0.938rem;
+        margin-top: 5rem;
+        flex-direction: column;
+        gap: 2.5rem;
+      }
+
+      
+.texts > h1{
+    text-align: center;
+    font-size: 2rem;
+    width: 100%;
+}
+
+
+.texts >p{
+    text-align: justify;
+    font-size: 1.2rem;
+    width: 100%;
+
+}
+
+.map{
+    width: 100%;
+}
+    
+}
+

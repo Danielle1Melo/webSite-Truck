@@ -13,7 +13,7 @@ export function Banner() {
         <button>Saiba mais</button>
       </div>
       <div>
-        <Image alt="" src={LOGO.truck} width={1250} />
+        <Image alt="" src={LOGO.truck}  className={styled.image}/>
       </div>
     </div>
   );

@@ -41,7 +41,7 @@ export function About() {
 
       <div className={styled.brand}>
         {brands.map((brand, idx) => {
-          return <Image key={idx} src={brand.logo} alt="" width={190}/>;
+          return <Image key={idx} src={brand.logo} alt="" className={styled.brandImage}/>;
         })}
       </div>
     </div>
