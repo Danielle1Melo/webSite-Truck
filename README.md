@@ -1,11 +1,16 @@
-You can see here: https://websitetruck.vercel.app/
+You can see here: https://websitetruck.vercel.app/ 🚚 
 
-## Getting Started
+# Technologies
+- NextJs
+- TypeScript
+- Css Modules
 
-First:
+# Getting Started
 
+```
   $ git clone 
 
   $ npm install
 
   $ npm run dev
+```
